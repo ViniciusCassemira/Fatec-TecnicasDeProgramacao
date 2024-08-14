@@ -1,5 +1,4 @@
 <?php 
- echo "Seja bem vindo " . $_GET["nome"];
- echo "<br>";
- echo "Seu sobrenome: " . $_GET["sobrenome"]; 
+ echo "<h1 style='color: blue'>Seu nome é " . $_GET["nome"] . "</h1><br>";
+ echo "Seu sobrenome é {$_GET["sobrenome"]}<br>"; 
 ?>
