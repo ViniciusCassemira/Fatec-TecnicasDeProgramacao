@@ -31,7 +31,7 @@
             //instanciando/criando um objeto da classe PDO, e é uma classe que vem com o PHP
             //usuário = root & senha = ""
             $conexao = new PDO($dsn, "root", "");
-            //retornando a conexão aberta
+            //retornando a conexão aberta   
             return $conexao;
         }
         // public function falarOi($posicao){
