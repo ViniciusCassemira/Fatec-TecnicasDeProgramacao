@@ -17,6 +17,7 @@
         public function getDescricao(){
             return $this->descricao;
         }
+        
         public function setDescricao($novaDescricao){
             return $this->nome = $novaDescricao;
         }
@@ -34,6 +35,5 @@
         public function setPreco($novoPreco){
             return $this->preco = $novoPreco;
         }
-
     }
 ?>

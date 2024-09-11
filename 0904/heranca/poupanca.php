@@ -11,7 +11,7 @@ class Poupanca extends Conta{
         }
 
     public function getAniversario(){
-        return $this->getAniversario;
+        return $this->aniversario;
     }
     public function setAniversario($aniversario){
         $this->aniversario = $aniversario;

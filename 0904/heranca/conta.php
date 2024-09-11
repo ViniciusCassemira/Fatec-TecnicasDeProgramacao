@@ -36,7 +36,6 @@ class Conta{
     }
 
     public function sacar(float $valor){
-
         $this->saldo -= $valor;
         // $this->saldo = $this->saldo - $valor;
     }
