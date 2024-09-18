@@ -1,0 +1,7 @@
+Agregação
+
+Relacionamentos:
+
+Associação (bilateral ou unilateral)
+-composição losangulo pintado, 
+-agregação
