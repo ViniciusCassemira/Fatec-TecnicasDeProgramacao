@@ -1,0 +1,13 @@
+MVC - Model, View e Controller
+Padrão de projeto
+Camada de persistência -> trabalha com o banco de dados
+Model -> Armazena as classes e tudo que se refere aos objetos
+View -> todos os arquivos/páginas geradas aonde existe contato com o usuário (mostra informações, solicita informações) - toda a interação com o usuário
+Controller -> armazenam os controladores - controladores recebem a rquisição e trabalha para que tudo ocorra certo -> tem classes que controlam tudo que o usuário queira fazer
+controla o que é necessário para o sistema funcionar adequadamente, possui as classes de controle
+
+Processo para digitar um cliente novo: 1ºmostramos a visão -> 2ºinteragimos com o model
+Processo para buscar dados: 1ºbusca os produtos no banco de dados -> 2ºmostra os resultados na view
+
+Um index.php se conecta ao controller, buscando por um controlador Padrão, que mostrará o início da aplicação(menu, login, etc)
+rota é composta: quem pe o controlador e qual método executará dentro desse controlador. criamos um controlador para cada contexto.

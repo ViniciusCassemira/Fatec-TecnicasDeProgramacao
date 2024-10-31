@@ -40,6 +40,7 @@ class Produto{
     public function getFornecedor(){
         return $this->fornecedor;
     }
+
     //estamos tipando a função, obrigando o parâmetro '$fornecedor' a ser do tipo Fornecedor
     //Poderia ser string, int, float...
     public function setFornecedor(Fornecedor $fornecedor){

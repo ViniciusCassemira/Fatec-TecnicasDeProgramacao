@@ -8,7 +8,7 @@ class Produto{
         private float $preco = 0.00,
         private int $estoque = 0,
         private Categoria $categoria = new Categoria()
-    ){}
+    ){} 
 
     //fracamente tipado
     // public function __construct(
