@@ -1,0 +1,10 @@
+1- Abrir sessão
+session_start();
+
+2- $_SESSION["idusuario"] = 1;
+   $_SESSION["nome"] = "Paulo";
+
+3- unset($_SESSION["nome"]);
+
+4- $_SESSION = array();
+   session_destroy();

@@ -1,0 +1,17 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script>
+		function mostrar(img)
+		{
+			if(img.files  && img.files[0])
+			{
+				var reader = new FileReader();
+				reader.onload = function(e){
+					$('#img')
+					.attr('src', e.target.result)
+					.width(170)
+					.height(100);
+				};
+				reader.readAsDataURL(img.files[0]);
+			}
+		}
+	</script>
