@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.exe
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.deps.json
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.runtimeconfig.json
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\bin\Debug\net9.0\primeiroProjeto.pdb
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\refint\primeiroProjeto.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.pdb
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\0210\primeiraSolucao\primeiroProjeto\obj\Debug\net9.0\ref\primeiroProjeto.dll

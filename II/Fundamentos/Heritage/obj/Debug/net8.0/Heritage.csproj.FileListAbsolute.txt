@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.AssemblyInfo.cs
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\bin\Debug\net8.0\Heritage.exe
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\bin\Debug\net8.0\Heritage.deps.json
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\bin\Debug\net8.0\Heritage.runtimeconfig.json
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\bin\Debug\net8.0\Heritage.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\bin\Debug\net8.0\Heritage.pdb
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\refint\Heritage.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.pdb
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\Heritage.genruntimeconfig.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Heritage\obj\Debug\net8.0\ref\Heritage.dll

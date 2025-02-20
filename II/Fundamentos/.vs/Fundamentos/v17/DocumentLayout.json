@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF48F26A-CF1C-49F4-AA7A-0AE377D80111}|attributes\\attributes.csproj|c:\\users\\vinic\\desktop\\3 semestre\\tecnicas de programacao 2\\fundamentos\\attributes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF48F26A-CF1C-49F4-AA7A-0AE377D80111}|attributes\\attributes.csproj|solutionrelative:attributes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF48F26A-CF1C-49F4-AA7A-0AE377D80111}|attributes\\attributes.csproj|c:\\users\\vinic\\desktop\\3 semestre\\tecnicas de programacao 2\\fundamentos\\attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF48F26A-CF1C-49F4-AA7A-0AE377D80111}|attributes\\attributes.csproj|solutionrelative:attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD57F47-3BD0-4C07-8F15-D3771821213F}|Heritage\\Heritage.csproj|c:\\users\\vinic\\desktop\\3 semestre\\tecnicas de programacao 2\\fundamentos\\heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD57F47-3BD0-4C07-8F15-D3771821213F}|Heritage\\Heritage.csproj|solutionrelative:heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\Heritage\\Program.cs",
+              "RelativeDocumentMoniker": "Heritage\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\Heritage\\Program.cs",
+              "RelativeToolTip": "Heritage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T15:30:39.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\attributes\\Product.cs",
+              "RelativeDocumentMoniker": "attributes\\Product.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\attributes\\Product.cs",
+              "RelativeToolTip": "attributes\\Product.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:45:46.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\attributes\\Program.cs",
+              "RelativeDocumentMoniker": "attributes\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\Desktop\\3 semestre\\tecnicas de programacao 2\\Fundamentos\\attributes\\Program.cs",
+              "RelativeToolTip": "attributes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:12:56.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

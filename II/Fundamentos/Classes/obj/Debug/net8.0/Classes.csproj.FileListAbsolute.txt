@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\vinic\Desktop\3 semestre\tecnicas de programacao 2\Fundamentos\Classes\obj\Debug\net8.0\ref\Classes.dll
