@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Array\bin\Debug\net9.0\Array.exe
+C:\FATEC\Fundamentos\Array\bin\Debug\net9.0\Array.deps.json
+C:\FATEC\Fundamentos\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+C:\FATEC\Fundamentos\Array\bin\Debug\net9.0\Array.dll
+C:\FATEC\Fundamentos\Array\bin\Debug\net9.0\Array.pdb
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.dll
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\refint\Array.dll
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.pdb
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Array\obj\Debug\net9.0\ref\Array.dll

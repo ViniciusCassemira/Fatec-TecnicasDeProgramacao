@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Expressao_Lambida\bin\Debug\net9.0\Expressao_Lambida.exe
+C:\FATEC\Fundamentos\Expressao_Lambida\bin\Debug\net9.0\Expressao_Lambida.deps.json
+C:\FATEC\Fundamentos\Expressao_Lambida\bin\Debug\net9.0\Expressao_Lambida.runtimeconfig.json
+C:\FATEC\Fundamentos\Expressao_Lambida\bin\Debug\net9.0\Expressao_Lambida.dll
+C:\FATEC\Fundamentos\Expressao_Lambida\bin\Debug\net9.0\Expressao_Lambida.pdb
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.dll
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\refint\Expressao_Lambida.dll
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.pdb
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\Expressao_Lambida.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Expressao_Lambida\obj\Debug\net9.0\ref\Expressao_Lambida.dll

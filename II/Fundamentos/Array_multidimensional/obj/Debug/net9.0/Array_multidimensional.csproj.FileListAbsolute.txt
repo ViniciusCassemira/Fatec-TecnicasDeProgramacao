@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Array_multidimensional\bin\Debug\net9.0\Array_multidimensional.exe
+C:\FATEC\Fundamentos\Array_multidimensional\bin\Debug\net9.0\Array_multidimensional.deps.json
+C:\FATEC\Fundamentos\Array_multidimensional\bin\Debug\net9.0\Array_multidimensional.runtimeconfig.json
+C:\FATEC\Fundamentos\Array_multidimensional\bin\Debug\net9.0\Array_multidimensional.dll
+C:\FATEC\Fundamentos\Array_multidimensional\bin\Debug\net9.0\Array_multidimensional.pdb
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.dll
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\refint\Array_multidimensional.dll
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.pdb
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\Array_multidimensional.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Array_multidimensional\obj\Debug\net9.0\ref\Array_multidimensional.dll

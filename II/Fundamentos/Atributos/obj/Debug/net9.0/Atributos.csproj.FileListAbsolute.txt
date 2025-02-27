@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Atributos\bin\Debug\net9.0\Atributos.exe
+C:\FATEC\Fundamentos\Atributos\bin\Debug\net9.0\Atributos.deps.json
+C:\FATEC\Fundamentos\Atributos\bin\Debug\net9.0\Atributos.runtimeconfig.json
+C:\FATEC\Fundamentos\Atributos\bin\Debug\net9.0\Atributos.dll
+C:\FATEC\Fundamentos\Atributos\bin\Debug\net9.0\Atributos.pdb
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.dll
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\refint\Atributos.dll
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.pdb
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\Atributos.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Atributos\obj\Debug\net9.0\ref\Atributos.dll

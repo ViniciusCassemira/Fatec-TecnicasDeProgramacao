@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.exe
+C:\FATEC\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+C:\FATEC\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+C:\FATEC\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.dll
+C:\FATEC\Fundamentos\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.dll
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+C:\FATEC\Fundamentos\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll

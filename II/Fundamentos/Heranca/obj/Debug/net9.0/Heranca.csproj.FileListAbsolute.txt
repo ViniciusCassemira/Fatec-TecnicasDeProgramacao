@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\Heranca\bin\Debug\net9.0\Heranca.exe
+C:\FATEC\Fundamentos\Heranca\bin\Debug\net9.0\Heranca.deps.json
+C:\FATEC\Fundamentos\Heranca\bin\Debug\net9.0\Heranca.runtimeconfig.json
+C:\FATEC\Fundamentos\Heranca\bin\Debug\net9.0\Heranca.dll
+C:\FATEC\Fundamentos\Heranca\bin\Debug\net9.0\Heranca.pdb
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfo.cs
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.dll
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\refint\Heranca.dll
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.pdb
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\Heranca.genruntimeconfig.cache
+C:\FATEC\Fundamentos\Heranca\obj\Debug\net9.0\ref\Heranca.dll

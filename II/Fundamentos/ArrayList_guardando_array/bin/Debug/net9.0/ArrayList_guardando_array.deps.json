@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArrayList_guardando_array/1.0.0": {
+        "runtime": {
+          "ArrayList_guardando_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayList_guardando_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

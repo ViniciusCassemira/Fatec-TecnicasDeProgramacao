@@ -1,0 +1,14 @@
+C:\FATEC\Fundamentos\ArrayList_guardando_array\bin\Debug\net9.0\ArrayList_guardando_array.exe
+C:\FATEC\Fundamentos\ArrayList_guardando_array\bin\Debug\net9.0\ArrayList_guardando_array.deps.json
+C:\FATEC\Fundamentos\ArrayList_guardando_array\bin\Debug\net9.0\ArrayList_guardando_array.runtimeconfig.json
+C:\FATEC\Fundamentos\ArrayList_guardando_array\bin\Debug\net9.0\ArrayList_guardando_array.dll
+C:\FATEC\Fundamentos\ArrayList_guardando_array\bin\Debug\net9.0\ArrayList_guardando_array.pdb
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.AssemblyInfoInputs.cache
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.AssemblyInfo.cs
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.csproj.CoreCompileInputs.cache
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.dll
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\refint\ArrayList_guardando_array.dll
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.pdb
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.genruntimeconfig.cache
+C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ref\ArrayList_guardando_array.dll

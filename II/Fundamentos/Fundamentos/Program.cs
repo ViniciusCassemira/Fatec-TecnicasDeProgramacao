@@ -1,20 +1,11 @@
-﻿using System;
+﻿using System.Runtime.InteropServices;
 
-class Program
-{
+Console.WriteLine("Fundamentos");
+int varInt = 22;
+float varFloat = 10.2f;
+double varDouble = 15.23;
+decimal varDecimal = 20.99m;
 
-  static void Main(string[] args)
-  {
-    Console.WriteLine("Hello");
-    int varInt = 12;
-    float varFloat = 12.75f;
-    double varDouble = 15.23;
-    decimal varDecimal = 15.23m;
-  
-    Console.WriteLine("Valor inteiro: " + varInt + "\nValor double: " + varDouble);
-    Console.WriteLine($"Valor inteiro: {varInt} \nValor double: {varDouble}");
-
-    Console.ReadKey();
-  }
-
-}
+Console.WriteLine("valor inteiro:" + varInt + "\nValor float:" + varFloat);
+Console.WriteLine($"valor double:{varDouble}\nvalor decimal:{varDecimal}");
+Console.ReadKey();
