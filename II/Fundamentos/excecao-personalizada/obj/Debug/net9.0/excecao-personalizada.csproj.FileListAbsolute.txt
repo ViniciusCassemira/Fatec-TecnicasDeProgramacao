@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.AssemblyInfo.cs
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\temp\excecao-personalizada\bin\Debug\net9.0\excecao-personalizada.exe
+C:\Users\vinic\Desktop\temp\excecao-personalizada\bin\Debug\net9.0\excecao-personalizada.deps.json
+C:\Users\vinic\Desktop\temp\excecao-personalizada\bin\Debug\net9.0\excecao-personalizada.runtimeconfig.json
+C:\Users\vinic\Desktop\temp\excecao-personalizada\bin\Debug\net9.0\excecao-personalizada.dll
+C:\Users\vinic\Desktop\temp\excecao-personalizada\bin\Debug\net9.0\excecao-personalizada.pdb
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.dll
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\refint\excecao-personalizada.dll
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.pdb
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\excecao-personalizada.genruntimeconfig.cache
+C:\Users\vinic\Desktop\temp\excecao-personalizada\obj\Debug\net9.0\ref\excecao-personalizada.dll

@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.AssemblyInfo.cs
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\temp\try-catch\bin\Debug\net9.0\try-catch.exe
+C:\Users\vinic\Desktop\temp\try-catch\bin\Debug\net9.0\try-catch.deps.json
+C:\Users\vinic\Desktop\temp\try-catch\bin\Debug\net9.0\try-catch.runtimeconfig.json
+C:\Users\vinic\Desktop\temp\try-catch\bin\Debug\net9.0\try-catch.dll
+C:\Users\vinic\Desktop\temp\try-catch\bin\Debug\net9.0\try-catch.pdb
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.dll
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\refint\try-catch.dll
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.pdb
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\try-catch.genruntimeconfig.cache
+C:\Users\vinic\Desktop\temp\try-catch\obj\Debug\net9.0\ref\try-catch.dll

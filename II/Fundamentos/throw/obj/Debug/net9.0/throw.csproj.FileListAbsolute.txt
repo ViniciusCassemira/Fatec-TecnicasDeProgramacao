@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.AssemblyInfo.cs
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\temp\throw\bin\Debug\net9.0\throw.exe
+C:\Users\vinic\Desktop\temp\throw\bin\Debug\net9.0\throw.deps.json
+C:\Users\vinic\Desktop\temp\throw\bin\Debug\net9.0\throw.runtimeconfig.json
+C:\Users\vinic\Desktop\temp\throw\bin\Debug\net9.0\throw.dll
+C:\Users\vinic\Desktop\temp\throw\bin\Debug\net9.0\throw.pdb
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.dll
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\refint\throw.dll
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.pdb
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\throw.genruntimeconfig.cache
+C:\Users\vinic\Desktop\temp\throw\obj\Debug\net9.0\ref\throw.dll

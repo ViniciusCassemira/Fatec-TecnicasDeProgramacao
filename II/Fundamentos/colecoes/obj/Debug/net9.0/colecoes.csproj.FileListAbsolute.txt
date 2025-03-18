@@ -1,0 +1,7 @@
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\colecoes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\colecoes.AssemblyInfoInputs.cache
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\colecoes.AssemblyInfo.cs
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\colecoes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\colecoes.dll
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\refint\colecoes.dll
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\colecoes\obj\Debug\net9.0\colecoes.pdb

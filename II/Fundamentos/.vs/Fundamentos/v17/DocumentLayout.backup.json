@@ -1,34 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FATEC\\Fundamentos\\",
+  "WorkspaceRootPath": "G:\\Meu Drive\\fatec\\semestre3\\tecnicas de programacao 2\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9CBC2F-CAF9-41AA-A75D-D20F7C51E281}|ArrayList_guardando_array\\ArrayList_guardando_array.csproj|c:\\fatec\\fundamentos\\arraylist_guardando_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9CBC2F-CAF9-41AA-A75D-D20F7C51E281}|ArrayList_guardando_array\\ArrayList_guardando_array.csproj|solutionrelative:arraylist_guardando_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{148308D0-76EB-442D-926C-16B26D8D14A8}|colecoes\\colecoes.csproj|g:\\meu drive\\fatec\\semestre3\\tecnicas de programacao 2\\fundamentos\\colecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148308D0-76EB-442D-926C-16B26D8D14A8}|colecoes\\colecoes.csproj|solutionrelative:colecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C150F70-258E-4BFE-B81E-5003627FCE7C}|Expressao_Lambida\\Expressao_Lambida.csproj|c:\\fatec\\fundamentos\\expressao_lambida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C150F70-258E-4BFE-B81E-5003627FCE7C}|Expressao_Lambida\\Expressao_Lambida.csproj|solutionrelative:expressao_lambida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6685130-1BF1-4708-9488-B619FD49872E}|List\\List.csproj|c:\\fatec\\fundamentos\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6685130-1BF1-4708-9488-B619FD49872E}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630FEB9E-AE22-4B0A-8E92-A7759222C58C}|ArrayList\\ArrayList.csproj|c:\\fatec\\fundamentos\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630FEB9E-AE22-4B0A-8E92-A7759222C58C}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{386422E2-43DD-4660-87CA-2867A564A99D}|Array_multidimensional\\Array_multidimensional.csproj|c:\\fatec\\fundamentos\\array_multidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{386422E2-43DD-4660-87CA-2867A564A99D}|Array_multidimensional\\Array_multidimensional.csproj|solutionrelative:array_multidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964E5AA5-6341-40A2-9687-71BDEBE1E631}|Array\\Array.csproj|c:\\fatec\\fundamentos\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964E5AA5-6341-40A2-9687-71BDEBE1E631}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D929D514-371A-482B-BBAF-F48D8A05819F}|Heranca\\Heranca.csproj|c:\\fatec\\fundamentos\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D929D514-371A-482B-BBAF-F48D8A05819F}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B70CE3A-5525-44DF-B181-0FB8E912564C}|Interface\\Interface.csproj|g:\\meu drive\\fatec\\semestre3\\tecnicas de programacao 2\\fundamentos\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B70CE3A-5525-44DF-B181-0FB8E912564C}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,87 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\ArrayList_guardando_array\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayList_guardando_array\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\ArrayList_guardando_array\\Program.cs",
-              "RelativeToolTip": "ArrayList_guardando_array\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\Meu Drive\\fatec\\semestre3\\tecnicas de programacao 2\\Fundamentos\\colecoes\\Program.cs",
+              "RelativeDocumentMoniker": "colecoes\\Program.cs",
+              "ToolTip": "G:\\Meu Drive\\fatec\\semestre3\\tecnicas de programacao 2\\Fundamentos\\colecoes\\Program.cs",
+              "RelativeToolTip": "colecoes\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:14:59.285Z",
+              "WhenOpened": "2025-03-10T13:27:19.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\Expressao_Lambida\\Program.cs",
-              "RelativeDocumentMoniker": "Expressao_Lambida\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\Expressao_Lambida\\Program.cs",
-              "RelativeToolTip": "Expressao_Lambida\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\Meu Drive\\fatec\\semestre3\\tecnicas de programacao 2\\Fundamentos\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "G:\\Meu Drive\\fatec\\semestre3\\tecnicas de programacao 2\\Fundamentos\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:40:48.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\List\\Program.cs",
-              "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\List\\Program.cs",
-              "RelativeToolTip": "List\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:19:40.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\ArrayList\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\ArrayList\\Program.cs",
-              "RelativeToolTip": "ArrayList\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:25:37.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\Array_multidimensional\\Program.cs",
-              "RelativeDocumentMoniker": "Array_multidimensional\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\Array_multidimensional\\Program.cs",
-              "RelativeToolTip": "Array_multidimensional\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T13:24:48.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\Array\\Program.cs",
-              "RelativeDocumentMoniker": "Array\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\Array\\Program.cs",
-              "RelativeToolTip": "Array\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:50:54.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\FATEC\\Fundamentos\\Heranca\\Program.cs",
-              "RelativeToolTip": "Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:18:42.291Z"
+              "WhenOpened": "2025-03-10T12:52:05.574Z"
             }
           ]
         }

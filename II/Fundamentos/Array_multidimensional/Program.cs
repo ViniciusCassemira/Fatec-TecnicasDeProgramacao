@@ -1,5 +1,5 @@
 ﻿int[,] numeros = new int[2,2] { {1,2}, { 3, 4 } };
-
+    
 foreach(var numero in numeros)
 {
     Console.WriteLine(numero);

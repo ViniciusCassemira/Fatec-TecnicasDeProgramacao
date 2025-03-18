@@ -12,3 +12,10 @@ C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\refint\ArrayList
 C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.pdb
 C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.genruntimeconfig.cache
 C:\FATEC\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ref\ArrayList_guardando_array.dll
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.AssemblyInfoInputs.cache
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.AssemblyInfo.cs
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.csproj.CoreCompileInputs.cache
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.dll
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\refint\ArrayList_guardando_array.dll
+G:\Meu Drive\fatec\semestre3\tecnicas de programacao 2\Fundamentos\ArrayList_guardando_array\obj\Debug\net9.0\ArrayList_guardando_array.pdb

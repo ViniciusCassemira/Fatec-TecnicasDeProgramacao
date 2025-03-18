@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "excecao-personalizada/1.0.0": {
+        "runtime": {
+          "excecao-personalizada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "excecao-personalizada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
