@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\exercicios\exercise5\bin\Debug\net9.0\exercise5.exe
+C:\Users\vinic\Desktop\exercicios\exercise5\bin\Debug\net9.0\exercise5.deps.json
+C:\Users\vinic\Desktop\exercicios\exercise5\bin\Debug\net9.0\exercise5.runtimeconfig.json
+C:\Users\vinic\Desktop\exercicios\exercise5\bin\Debug\net9.0\exercise5.dll
+C:\Users\vinic\Desktop\exercicios\exercise5\bin\Debug\net9.0\exercise5.pdb
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.AssemblyInfo.cs
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.dll
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\refint\exercise5.dll
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.pdb
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\exercise5.genruntimeconfig.cache
+C:\Users\vinic\Desktop\exercicios\exercise5\obj\Debug\net9.0\ref\exercise5.dll
